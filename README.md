@@ -26,23 +26,7 @@ The project is structured as follows:
 ## Data
 The dataset used for this project is the "digits" dataset from sci-kit-learn's built-in datasets. It consists of 1797 images of handwritten digits, each represented by an 8x8 pixel matrix. The target variable represents the actual digit value (0-9).
 
-## Usage
-1. Clone this repository:
-
-git clone https://github.com/your-username/handwritten-digit-prediction.git
-
-2. Open the Jupyter Notebook handwritten_digit_prediction.ipynb using Jupyter Notebook or JupyterLab.
-
-3. Run the cells in the notebook to execute the code step-by-step.
-
 ## Results
 After running the notebook, you will see the accuracy of the trained model and performance metrics such as the confusion matrix and classification report. Additionally, you can use the trained model to make predictions for new handwritten digits.
 
-## Conclusion
-The Handwritten Digit Prediction project showcases the power of classification models in identifying handwritten digits with high accuracy. Through this internship at Ybi Foundation, I gained valuable experience in data preprocessing, model training, and evaluation, which will undoubtedly contribute to my journey in the field of Data Science and Machine Learning.
-
-Feel free to reach out if you have any questions or feedback on the project. Happy learning! 🚀📊
-
-## Acknowledgments
-I would like to express my gratitude to Ybi Foundation for providing me with this enriching internship opportunity and guiding me throughout this project.
 
